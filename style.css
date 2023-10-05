@@ -106,12 +106,13 @@ form{
         .search-results{
             padding: 20px;
         }
-        .serach-result{
+        .search-result{
             width: 45%;
         }
 }
 @media screen and (max-width:480px){
-    .serach-result{
+    .search-result{
         width: 100%;
     }
+    
 }
